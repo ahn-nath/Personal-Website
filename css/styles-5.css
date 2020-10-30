@@ -1,0 +1,18 @@
+.text-left.shadow-lg.swiper-button-prev {
+  display: block;
+}
+
+/* show slider swipper for tablets and higher */
+
+@media (max-width: 768px) {
+  .text-left.shadow-lg.swiper-button-prev {
+    display: none;
+  }
+}
+
+@media (max-width: 768px) {
+  .slide-main {
+    background: none;
+  }
+}
+
