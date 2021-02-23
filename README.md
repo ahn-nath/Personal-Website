@@ -10,18 +10,18 @@ A static website used to highlight personal stories and projects. There are two 
 ## Sections
 ### Story
 The page covers the following:
-•	Facts.
-•	A short description of the person.
-•	A call to action.
-•	Core values and interests.
-•	A project gallery.
-•	Personal quotes.
+-	Facts.
+-	A short description of the person.
+-	A call to action.
+-	Core values and interests.
+-	A project gallery.
+-	Personal quotes.
 
 
 ### The Front-End
 The page covers the following about each highlighted projects:
-•	A project overview.
-•	A project gallery.
+-	A project overview.
+-	A project gallery.
 
 
 ## Tech
