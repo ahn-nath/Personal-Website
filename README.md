@@ -1,6 +1,8 @@
 # Personal Website
 ### _Getting to know about Nathaly Toledo_
 
+
+![Featured image](./featured__.png)
 ![Featured image](./featured_.png)
 
 A static website used to highlight personal stories and projects. There are two web pages:
